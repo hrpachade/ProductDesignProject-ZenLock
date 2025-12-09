@@ -15,18 +15,17 @@ Project Overview
 2. Customer need definition + market sizing
 3. Benchmarking of existing “focus tools”
 4. Concept generation & initial SolidWorks prototypes
-5. FMEA & House of Quality testing
+5. FMEA
 6. 3D-printed prototypes + user testing
-7. Redesign based on feedback
-8. Cost analysis (ABS injection molding)
+7. User Testing
+8. Cost analysis (ABS injection molding for Mass Production)
 9. Investor-style pitch
 
 Deliverables Included
 - CAD models & STL files  
 - Prototype photos  
-- HOQ & FMEA  
+- FMEA
 - Cost analysis  
-- Market research summary  
 - Final pitch deck  
 
 Tools Used
