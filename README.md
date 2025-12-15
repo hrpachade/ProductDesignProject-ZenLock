@@ -4,6 +4,7 @@
 A distraction-reduction phone lockbox designed and developed by a team of 4 for our concurrent engineering course. 
 The goal was to create a universal, low-cost, 3D-printable lockbox that helps students and professionals 
 stay focused by limiting phone usage.
+<img width="888" height="647" alt="image" src="https://github.com/user-attachments/assets/ac6522b1-091b-4f3b-b8c9-88ef81847035" />
 
 Key Features 
 - Universal phone compatibility  
